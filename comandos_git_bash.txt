@@ -1,0 +1,13 @@
+Comandos Git Bash
+- pwd Muestra el path o ruta de la carpeta actual.
+- cd Permite ir a home o acceder a una carpeta en un nivel o varios niveles.
+- cd .. Regresa a la carpeta anterior.
+- ls Listado de archivos en carpeta actual.
+- ls -al Muestra archivos (incluyendo ocultos) de carpeta actual o especificando otra.
+- ls -l Muestra archivos con detalles 
+- clear o ctr+l limpiar pantalla
+- mkdir <nombre de la carpeta> crea una carpeta
+- touch <nombre de archivo> crea un archivo con su tipo (ejemplo: archivo.txt)
+- cat <nombre del archivo> abre archivo para ver su contenido
+- history Muestra el historial de comandos utilizados
+- rm <nombre de archivo> Borrar un archivo. Precaución al utilizar este comando.
